@@ -81,10 +81,10 @@ $ sudo apt-get install docker-ce=<VERSION_STRING> docker-ce-cli=<VERSION_STRING>
 
 ## 도커를 사용한 실습
 
-위 내용을 바로 테스트할 수 있도록 [docs/install/Dockerfile](https://github.com/divlook/docker-study/blob/main/docs/install/Dockerfile) 파일을 만들어놓았습니다.
+위 내용을 바로 테스트할 수 있도록 [docs/install/Dockerfile](https://github.com/divlook-log/docker-study/blob/main/docs/install/Dockerfile) 파일을 만들어놓았습니다.
 
 ```bash
-$ git clone git@github.com:divlook/docker-study.git
+$ git clone git@github.com:divlook-log/docker-study.git
 $ cd docker-study/docs/install
 
 # 이미지 build
