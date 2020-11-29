@@ -106,7 +106,7 @@ $ sudo apt-get purge docker-ce docker-ce-cli containerd.io
 $ sudo rm -rf /var/lib/docker
 ```
 
-## 로그 설정
+## 도커 데몬의 드라이버 systemd로 변경
 
 ```bash
 # docker 설정 폴더 생성
