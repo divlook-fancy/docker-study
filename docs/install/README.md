@@ -91,7 +91,7 @@ $ cd docker-study/docs/install
 $ docker build -t docker-study/install .
 
 # 컨테이너 생성
-$ docker run -it --rm --name docker-study/install docker-study.install bash
+$ docker run -it --rm --name docker-study.install docker-study/install bash
 
 # 컨테이너 내부에서 docker를 실행해봅니다.
 $ docker -v
